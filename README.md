@@ -1,12 +1,13 @@
+**Note for Reviewers: This repository has been anonymized to comply with the double-blind peer-review process. It contains all the necessary code and data to reproduce the analysis presented in the submitted manuscript.**
+
 # The Trust Game: A Historical and Methodological Analysis on the Frontier of Experimental and Behavioral Economics
 
 [![Language](https://img.shields.io/badge/Language-R-blue.svg)](https://www.r-project.org/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ncamilotto/trustgame-paper)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/51913514118402293201518/trustgame-paper)
 
 This repository contains the R scripts and supplementary materials for the working paper:
 
-**Title:** *The Trust Game: A Historical and Methodological Analysis on the Frontier of Experimental and Behavioral Economics*  
-**Author:** Nicolas Camilotto  
+**Title:** *The Trust Game: A Historical and Methodological Analysis on the Frontier of Experimental and Behavioral Economics*   
 
 ## Abstract
 
@@ -70,7 +71,7 @@ This project is fully reproducible. Follow these steps:
 
 First, clone this repository to your local machine:
 ```sh
-git clone https://github.com/ncamilotto/trustgame-paper.git
+git clone https://github.com/51913514118402293201518/trustgame-paper.git
 cd trustgame-paper
 ```
 
